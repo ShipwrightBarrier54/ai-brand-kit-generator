@@ -1,0 +1,1 @@
+"""Built-in generators. Each module registers a BaseGenerator subclass."""
